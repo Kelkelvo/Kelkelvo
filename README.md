@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<h1 align="left">Git do Kel 🧌
+<h1 align="left">Git do Kel 👽
 
 <a href="www.linkedin.com/in/kelwin-williams-ferreira-da-silva-a197071a0">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)</a>
 </h1> 
