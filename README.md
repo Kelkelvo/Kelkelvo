@@ -7,7 +7,6 @@
 
 
 <h3>Sobre Mim</h3>
-<img align="right" width="150" height="150" ></a>
 <ul>
     <li>🛠️ Desenvolvendo projetos em C </li>
     <li>🐍 Programador C# focado em Backend.</li>
